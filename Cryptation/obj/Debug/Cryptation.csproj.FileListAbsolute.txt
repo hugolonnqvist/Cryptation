@@ -1,0 +1,6 @@
+/Users/hugo/RiderProjects/Cryptation/Cryptation/bin/Debug/Cryptation.exe
+/Users/hugo/RiderProjects/Cryptation/Cryptation/bin/Debug/Cryptation.pdb
+/Users/hugo/RiderProjects/Cryptation/Cryptation/obj/Debug/Cryptation.csprojAssemblyReference.cache
+/Users/hugo/RiderProjects/Cryptation/Cryptation/obj/Debug/Cryptation.csproj.CoreCompileInputs.cache
+/Users/hugo/RiderProjects/Cryptation/Cryptation/obj/Debug/Cryptation.exe
+/Users/hugo/RiderProjects/Cryptation/Cryptation/obj/Debug/Cryptation.pdb
