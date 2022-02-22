@@ -161,7 +161,7 @@ namespace Cryptation
 
                  NetworkStream tcpStream = tcpClient.GetStream();
                  tcpStream.Write(bMessage, 0, bMessage.Length);
-
+ 
                  // Tag emot meddelande från servern:
                  byte[] bRecievedMessage = new byte[256];
                  int bReadSize = tcpStream.Read(bRecievedMessage, 0, bRecievedMessage.Length);
